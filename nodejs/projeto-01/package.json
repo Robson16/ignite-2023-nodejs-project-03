@@ -1,5 +1,5 @@
 {
-  "name": "ignite-2023-nodejs",
+  "name": "ignite-2023-nodejs-projeto-01",
   "type": "module",
   "version": "1.0.0",
   "description": "",
@@ -9,5 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
