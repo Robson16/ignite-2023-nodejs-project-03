@@ -1,2 +1,2 @@
-# ignite2023
-Projetos criados no bootcamp Ignite da Rocktseat de 2023
+# ignite-2023-nodejs-project-03
+Rocktseat Ignite 2023 - NodeJs - Projeto 3
